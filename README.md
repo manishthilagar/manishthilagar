@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hi there, I'm Manish Thilagar 🤓
 
-<!--
-**manishthilagar/manishthilagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 manishthilagar@gmail.com | 📞 (+91) 9080389881 | 📍 Salem, TN | 💼 LinkedIn
 
-Here are some ideas to get you started:
+I'm Manish, and I have a passion for understanding how our brains work! 🧠 Specifically, I'm super interested in cognitive science, which includes cool things like EEG, GSR, and eye tracker technologies. 💻👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning about how our brains process information, make decisions, and react to different stimuli. It's fascinating to see how data and insights from these technologies can be used to improve our understanding of the human mind and behavior! 😲
+
+When I'm not geeking out over cognitive science, I enjoy learning new skills and working on personal projects. I'm always up for a challenge and love to think outside the box! 🤓
+
+💻 SKILLS 💻
+
+Python (NumPy, Pandas, MNE-Python, Scikit-learn & Flask), Uipath & MySQL;
+ElasticSearch; Recommendation Engines, Customer Segmentation).
+
+🧠 I have a keen interest in EEG, GSR, Eye Tracker and cognitive science in general. I'm always looking for new challenges and opportunities to learn and grow in my field.
+
+Thanks for stopping by, and feel free to connect with me if you share similar interests or just want to chat! 😊
+
