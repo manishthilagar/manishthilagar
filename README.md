@@ -9,4 +9,4 @@ I love learning about how our brains process information, make decisions, and re
 
 🌱 Always looking for new challenges and opportunities to learn and grow in my field
 
-Thanks for stopping by! Feel free to connect with me if you share similar interests or just want to chat. 😊
+Thanks for stopping by! Feel free to connect with me if you share similar interests or just want to chat.
